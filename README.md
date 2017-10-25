@@ -6,23 +6,6 @@
 
   <body bgcolor = "#6E6E6E">
 
-  
-
- <style>
-
-   h1{
-
-    background-color = #0080FF;
-
-   }
-
- 
-
-                 
-
-  </style>
-
-
 
 <body>
 
